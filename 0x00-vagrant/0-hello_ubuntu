@@ -1,2 +1,1 @@
-"linux"
-echo -s > print
+uname:linux
